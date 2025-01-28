@@ -25,8 +25,7 @@ Ce dépôt contient :
 
 ### 1. Pré-requis
 Assurez-vous d'avoir installé les outils suivants :
-- **Python**
-- **Bibliothèques Python** : `pandas`, `matplotlib`, `seaborn`, etc.
+- **Python** : `pandas`, `matplotlib`, `seaborn`, etc.
 - **Outil de visualisation** : Power BI ou un outil similaire.
 
 ### 2. Installation
