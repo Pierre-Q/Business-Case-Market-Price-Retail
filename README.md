@@ -15,9 +15,9 @@ Bienvenue dans ce dépôt dédié à l’analyse des performances commerciales, 
 ## 🗂️ Contenu du Dépôt
 
 Ce dépôt contient :
-- **Visualisations et analyses** : Des représentations graphiques pour explorer les données et faciliter la prise de décision.
-- **Rapport d’analyse** : Une synthèse des insights clés et recommandations (disponible dans un fichier séparé).
-- **Scripts et fichiers associés** : Les ressources nécessaires pour reproduire ou adapter le projet.
+- **Visualisations** : Des représentations graphiques pour explorer les données et faciliter la prise de décision accessibles via ce [lien](./rapports/Dashboard.pbix).
+- **Rapport d’analyse** : Une synthèse des insights clés et recommandations (disponible dans un fichier séparé) accessible via ce [lien](./rapports/rapport_presentation.pdf).
+- **Scripts et fichiers associés** : Les ressources nécessaires pour reproduire ou adapter le projet accessible via ce [lien](./notebook/analyse_dataset.ipynb).
 
 ---
 
